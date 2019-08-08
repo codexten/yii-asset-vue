@@ -4,7 +4,7 @@
   "description": "vue asset for yii 2.0 or higher",
   "require": {
     "codexten/yii-web": "~2.0.0",
-    "npm-asset/vue": "~2.6.0"
+    "npm-asset/vue": "~2.6.10"
   },
   "autoload": {
     "psr-4": {
